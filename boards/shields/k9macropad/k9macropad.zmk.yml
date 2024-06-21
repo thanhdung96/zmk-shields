@@ -2,7 +2,7 @@ file_format: "1"
 id: k9macropad
 name: k9macropad
 type: shield
-url: https://github.com/kata0510/k9macropad
+url: https://github.com/shouldnt/zmk-shields/tree/k9macropad
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
