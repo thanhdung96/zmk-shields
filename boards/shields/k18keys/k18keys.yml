@@ -1,0 +1,11 @@
+file_format: "1"
+id: k18keys
+name: k18keys
+type: shield
+url: https://github.com/kata0510/k18keys
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - k18keys_left
+  - k18keys_right
