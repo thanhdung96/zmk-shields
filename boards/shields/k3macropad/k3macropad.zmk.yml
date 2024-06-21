@@ -2,7 +2,7 @@ file_format: "1"
 id: k3macropad
 name: k3macropad
 type: shield
-url: https://github.com/shouldnt/zmk-shields/blob/k3macropad
+url: https://github.com/thanhdung96/zmk-shields/blob/k3macropad
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
